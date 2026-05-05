@@ -1,0 +1,8 @@
+RHPA D1.zip
+SSU RHPA.zip
+*.pt
+Roadkill Hotspots & Policy Advocacy/RHPA.ipynb
+.grad/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

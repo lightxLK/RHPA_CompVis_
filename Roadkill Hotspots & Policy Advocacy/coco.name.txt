@@ -1,0 +1,14 @@
+cat
+dog
+bird
+cow
+elephant
+squirrel
+calf
+goat
+buffalo
+monkey
+fox
+deer
+rabbit
+pig

@@ -6,3 +6,6 @@ Roadkill Hotspots & Policy Advocacy/RHPA.ipynb
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+
+# docs, reports, media (kept locally)
+misc/
